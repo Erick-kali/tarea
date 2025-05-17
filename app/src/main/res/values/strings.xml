@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bienestar_salud</string>
+    <string name="btn_enviar_correo">Enviar Correo</string>
+    <string name="btn_ir_tercera">Ir a Tercera Actividad</string>
+</resources>
